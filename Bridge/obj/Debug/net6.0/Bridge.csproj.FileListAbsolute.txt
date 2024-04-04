@@ -1,0 +1,14 @@
+C:\Users\Henrique Medeiros\Desktop\Design Patterns\Bridge\Bridge\bin\Debug\net6.0\Bridge.exe
+C:\Users\Henrique Medeiros\Desktop\Design Patterns\Bridge\Bridge\bin\Debug\net6.0\Bridge.deps.json
+C:\Users\Henrique Medeiros\Desktop\Design Patterns\Bridge\Bridge\bin\Debug\net6.0\Bridge.runtimeconfig.json
+C:\Users\Henrique Medeiros\Desktop\Design Patterns\Bridge\Bridge\bin\Debug\net6.0\Bridge.dll
+C:\Users\Henrique Medeiros\Desktop\Design Patterns\Bridge\Bridge\bin\Debug\net6.0\Bridge.pdb
+C:\Users\Henrique Medeiros\Desktop\Design Patterns\Bridge\Bridge\obj\Debug\net6.0\Bridge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique Medeiros\Desktop\Design Patterns\Bridge\Bridge\obj\Debug\net6.0\Bridge.AssemblyInfoInputs.cache
+C:\Users\Henrique Medeiros\Desktop\Design Patterns\Bridge\Bridge\obj\Debug\net6.0\Bridge.AssemblyInfo.cs
+C:\Users\Henrique Medeiros\Desktop\Design Patterns\Bridge\Bridge\obj\Debug\net6.0\Bridge.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Medeiros\Desktop\Design Patterns\Bridge\Bridge\obj\Debug\net6.0\Bridge.dll
+C:\Users\Henrique Medeiros\Desktop\Design Patterns\Bridge\Bridge\obj\Debug\net6.0\refint\Bridge.dll
+C:\Users\Henrique Medeiros\Desktop\Design Patterns\Bridge\Bridge\obj\Debug\net6.0\Bridge.pdb
+C:\Users\Henrique Medeiros\Desktop\Design Patterns\Bridge\Bridge\obj\Debug\net6.0\Bridge.genruntimeconfig.cache
+C:\Users\Henrique Medeiros\Desktop\Design Patterns\Bridge\Bridge\obj\Debug\net6.0\ref\Bridge.dll
